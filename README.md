@@ -1,6 +1,6 @@
 # Hi there 👋  
 
-I'm **Abdunoo** (he/him), a passionate **Web Developer** with over 2 years of hands-on experience. I specialize in creating dynamic and efficient applications with modern frameworks and tools.
+I'm **Abdunoo** (he), a passionate **Web Developer** with over 2 years of hands-on experience. I specialize in creating dynamic and efficient applications with modern frameworks and tools.
 
 ---
 
