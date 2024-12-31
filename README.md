@@ -5,7 +5,7 @@ I'm **Abdunoo** (he/him), a passionate **Web Developer** with over 2 years of ha
 ---
 
 ## 🛠 Skills & Expertise  
-- **Frontend:** Vue.js, Angular, Tailwind CSS  
+- **Frontend:** Vue.js, Tailwind CSS  
 - **Backend:** Laravel, Express.js  
 - **Other Tools:** PHP, JavaScript, HTML, CSS  
 - **Databases:** MySQL  
