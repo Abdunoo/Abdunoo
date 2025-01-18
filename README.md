@@ -15,7 +15,7 @@ I'm **Abdunoo** (he/him), a passionate **Web Developer** with over 2 years of ha
 
 ## 📂 Notable Projects  
 
-### 🎟 [Ticketing Selling Events](https://github.com/Abdunoo/ticketing-selling-events-vuejs3-angular-18-and-laravel-11)  
+### 🎟 [Events Ticketing Selling](https://github.com/Abdunoo/ticketing-selling-events-vuejs3-angular-18-and-laravel-11)  
 **Stack:** Vue.js 3, Angular 18, Tailwind CSS, Laravel 11, MYSQL  
 Description: A web application for efficient ticket management.  
 
